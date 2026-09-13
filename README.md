@@ -97,7 +97,7 @@ The Docker image is stored in Amazon Elastic Container Registry (ECR).
 
 ECR Repository:
 
-    673515369137.dkr.ecr.eu-north-1.amazonaws.com/taskflow
+    <ECR_REGISTRY>/taskflow
 
 Login to ECR:
 
